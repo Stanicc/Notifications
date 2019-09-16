@@ -13,3 +13,7 @@ Imprima uma mensagem do windows.
 ## Apenas um teste
 
 Isso não é nada importante, apenas um projeto meu para aprendizado.
+
+## Dependências
+
+* [TornadoFX](https://tornadofx.io/)
